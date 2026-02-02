@@ -1,4 +1,4 @@
-/* ✅ Basic Reset */
+
 * {
     margin: 0;
     padding: 0;
@@ -6,13 +6,11 @@
     font-family: Arial, sans-serif;
 }
 
-/* ✅ Body Styling */
 body {
     background: #f5f7fb;
     color: #333;
 }
 
-/* ✅ Navbar */
 header {
     background: #222;
     color: white;
@@ -39,7 +37,6 @@ nav a:hover {
     color: #00c3ff;
 }
 
-/* ✅ Search Section */
 .search-section {
     text-align: center;
     padding: 60px 20px;
@@ -50,7 +47,6 @@ nav a:hover {
     margin-bottom: 20px;
 }
 
-/* ✅ Search Box */
 .search-box {
     display: flex;
     justify-content: center;
@@ -78,7 +74,6 @@ nav a:hover {
     background: #005ecc;
 }
 
-/* ✅ Cards Section */
 .cards {
     padding: 40px;
     text-align: center;
@@ -89,7 +84,6 @@ nav a:hover {
     font-size: 24px;
 }
 
-/* ✅ Card Layout */
 .card-container {
     display: flex;
     justify-content: center;
@@ -97,7 +91,6 @@ nav a:hover {
     flex-wrap: wrap;
 }
 
-/* ✅ Individual Card */
 .card {
     background: white;
     width: 250px;
@@ -115,7 +108,6 @@ nav a:hover {
     margin-bottom: 15px;
 }
 
-/* ✅ Card Link Button */
 .card a {
     text-decoration: none;
     background: #0078ff;
@@ -128,7 +120,6 @@ nav a:hover {
     background: #005ecc;
 }
 
-/* ✅ Footer */
 footer {
     background: #222;
     color: white;
